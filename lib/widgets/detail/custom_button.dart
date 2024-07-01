@@ -23,7 +23,7 @@ class CustomButton extends StatelessWidget {
               },
               child: const Text('Book Now'),
               style: TextButton.styleFrom(
-                primary: kTextColor,
+                iconColor: kTextColor,
                 backgroundColor: kSecondaryColor,
                 textStyle: nunitoRegular17,
                 shape: const RoundedRectangleBorder(

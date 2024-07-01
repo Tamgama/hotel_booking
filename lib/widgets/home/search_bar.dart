@@ -4,8 +4,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 import '../../constant.dart';
 
-class SearchBar extends StatelessWidget {
-  const SearchBar({Key? key}) : super(key: key);
+class Search_Bar extends StatelessWidget {
+  const Search_Bar({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

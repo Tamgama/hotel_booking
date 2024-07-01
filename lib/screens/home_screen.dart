@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
           physics: const BouncingScrollPhysics(),
           children: [
             const HomeHeader(),
-            const SearchBar(),
+            const Search_Bar(),
             const Chips(),
             PopularList(items: popular),
             NearbyGrid(data: nearby),
